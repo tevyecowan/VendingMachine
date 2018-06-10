@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vending Machine</string>
+    <string name="default_menu">Welcome to AutoVend, the vending machine of the future! Please select a cola from the following options.</string>
+    <string name="cocka_cola">Cocka Cola</string>
+    <string name="foot_beer">Foot Beer</string>
+    <string name="dr_schlepper">Dr. Schlepper</string>
+    <string name="grape_soda">Grape Soda</string>
+    <string name="choose_cocka_cola">You chose Cocka Cola! Good choice!</string>
+    <string name="cocka_cola_price">$1.25</string>
+    <string name="foot_beer_price">$1.25</string>
+    <string name="dr_schlepper_price">$1.25</string>
+    <string name="grape_soda_price">$1.33</string>
+</resources>
